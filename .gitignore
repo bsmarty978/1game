@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*/Intermediate
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Saved
+BulEscpae/Content/StarterContent/
+
+*.VC.db
